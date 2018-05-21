@@ -1,3 +1,3 @@
 # SQL
 
-* *UpdateAllPost.sql* - Update all post their last revisions
+* **UpdateAllPost.sql** - Update all post their last revisions
